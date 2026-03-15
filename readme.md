@@ -66,3 +66,6 @@ Sistem ini menggunakan komunikasi **Serial UART** satu arah:
 **Version:** v1.7 (Stable Release)
 
 ## Block MIT APP Inventor
+![IMAGE](block_apps_v3.png)
+
+## Panduan Sinkron
