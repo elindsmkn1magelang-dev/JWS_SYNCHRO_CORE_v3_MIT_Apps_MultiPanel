@@ -65,7 +65,10 @@ Sistem ini menggunakan komunikasi **Serial UART** satu arah:
 **Location:** Sleman, Yogyakarta, Indonesia  
 **Version:** v1.7 (Stable Release)
 
-## Block MIT APP Inventor
-![IMAGE](block_apps_v3.png)
+## 📂 Dokumen Teknis
+Silakan unduh dokumen panduan di bawah ini:
 
-## Panduan Sinkron
+* [📄 Panduan Perakitan Hardware](PENDUKUNG/PANDUAN SISWA JWS.pdf)
+
+## 🖼️ Preview Project
+![Tampilan Alat](PENDUKUNG/block_apps_v3.png)
