@@ -68,7 +68,7 @@ Sistem ini menggunakan komunikasi **Serial UART** satu arah:
 ## 📂 Dokumen Teknis
 Silakan unduh dokumen panduan di bawah ini:
 
-* [📄 Panduan Perakitan Hardware](PENDUKUNG/PANDUAN SISWA JWS.pdf)
+![Tampilan Alat](PENDUKUNG/PANDUAN SISWA JWS.pdf)
 
 ## 🖼️ Preview Project
 ![Tampilan Alat](PENDUKUNG/block_apps_v3.png)
