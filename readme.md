@@ -70,6 +70,8 @@ Klik link di bawah ini untuk membuka atau mengunduh panduan:
 
 * [📄 Download Panduan SINKRON JWS v3 (PDF)](PENDUKUNG/PANDUAN_SISWA_JWS.pdf)
 * [📄 Download Panduan WIRING JWS v3 (PDF)](PENDUKUNG/PANDUAN_WIRING_JWS.pdf)
+* [📄 Download Panduan DAFTAR PERIKSA JWS v3 (PDF)](PENDUKUNG/DAFTAR_PERIKSA.pdf)
+* [📄 Download Panduan LAPORAN SISWA JWS v3 (PDF)](PENDUKUNG/LAPORAN_PRAKTIKUM_JWS_V3.pdf)
 
 ## 🖼️ Preview Project
 ![Tampilan Alat](PENDUKUNG/PANDUAN_SISWA_JWS_1.png)
