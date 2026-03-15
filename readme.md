@@ -65,9 +65,11 @@ Sistem ini menggunakan komunikasi **Serial UART** satu arah:
 **Location:** Sleman, Yogyakarta, Indonesia  
 **Version:** v1.7 (Stable Release)
 
-## 📂 Dokumen Teknis
-Silakan unduh dokumen panduan di bawah ini:
-![Tampilan Alat](PENDUKUNG/PANDUAN_SISWA_JWS_1.png)
+### 📂 Dokumen Pendukung
+Klik link di bawah ini untuk membuka atau mengunduh panduan:
+
+* [📄 Download Panduan JWS v3 (PDF)](PANDUAN_SISWA_JWS.pdf)
 
 ## 🖼️ Preview Project
+![Tampilan Alat](PENDUKUNG/PANDUAN_SISWA_JWS_1.png)
 ![Tampilan Alat](PENDUKUNG/block_apps_v3.png)
