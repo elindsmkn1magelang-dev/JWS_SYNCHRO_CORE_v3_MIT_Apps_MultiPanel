@@ -69,7 +69,22 @@ Sistem ini menggunakan komunikasi **Serial UART** satu arah:
 Klik link di bawah ini untuk membuka atau mengunduh panduan:
 
 * [📄 Download Panduan JWS v3 (PDF)](PANDUAN_SISWA_JWS.pdf)
+* [📄 Download Panduan JWS v3 (PDF)](PANDUAN_WIRING_JWS.pdf)
 
 ## 🖼️ Preview Project
 ![Tampilan Alat](PENDUKUNG/PANDUAN_SISWA_JWS_1.png)
 ![Tampilan Alat](PENDUKUNG/block_apps_v3.png)
+
+### 🔌 Panduan Wiring (Master to Slave)
+
+1. **Jalur Komunikasi:** - Master (TX) ---> Slave (RX)
+   - Master (GND) ---> Slave (GND)
+
+2. **Jalur Hardware Master:**
+   - RTC DS3231: D1 (SCL), D2 (SDA)
+   - NeoPixel: D6 (Data Out)
+   - DFPlayer: D7 (RX), D5 (TX)
+
+3. **Jalur Hardware Slave:**
+   - Panel P10: Mengikuti standard DMDESP Pin (D1, D5, D7, D8, D3)
+
