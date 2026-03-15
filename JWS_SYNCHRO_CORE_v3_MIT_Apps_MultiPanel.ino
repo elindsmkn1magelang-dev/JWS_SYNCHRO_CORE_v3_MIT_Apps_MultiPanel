@@ -43,8 +43,8 @@ RTC_DS3231 rtc;
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "time.nist.gov", 25200, 60000);
 
-const char *ssid_ntp = "Daffa_Rasya.";
-const char *pass_ntp = "1sampai8";
+const char *ssid_ntp = "SSID-mu";  //sesuaikan dengan SSID internetmu
+const char *pass_ntp = "PASW-mu";  //sesuaikan dengan pasword SSIDmu
 
 int Hour = -1, Minute = -1, Second = -1;
 double prayerTimes[7];
@@ -180,7 +180,7 @@ void setup() {
   Serial.begin(9600); mp3Serial.begin(9600);
   EEPROM.begin(512); EEPROM.get(EEPROM_ADDR, userLoc);
   if (userLoc.valid != EEPROM_VALID_KEY) {
-    userLoc.lat = -7.6425819; userLoc.lon = 110.3717201; userLoc.valid = EEPROM_VALID_KEY; 
+    userLoc.lat = -**********; userLoc.lon = **********; userLoc.valid = EEPROM_VALID_KEY; //ubah tanda **, sesuaikan lat, long wilayahmu
   }
 
   strip.begin(); strip.setBrightness(120); strip.show();
