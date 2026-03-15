@@ -68,8 +68,8 @@ Sistem ini menggunakan komunikasi **Serial UART** satu arah:
 ### 📂 Dokumen Pendukung
 Klik link di bawah ini untuk membuka atau mengunduh panduan:
 
-* [📄 Download Panduan Sinkron JWS v3 (PDF)](PANDUAN_SISWA_JWS.pdf)
-* [📄 Download Panduan Wiring JWS v3 (PDF)](PANDUAN_WIRING_JWS.pdf)
+* [📄 Download Panduan SINKRON JWS v3 (PDF)](PANDUAN_SISWA_JWS.pdf)
+* [📄 Download Panduan WIRING JWS v3 (PDF)](PANDUAN_WIRING_JWS.pdf)
 
 ## 🖼️ Preview Project
 ![Tampilan Alat](PENDUKUNG/PANDUAN_SISWA_JWS_1.png)
