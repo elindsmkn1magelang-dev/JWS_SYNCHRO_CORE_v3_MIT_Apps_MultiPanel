@@ -74,7 +74,7 @@ Klik link di bawah ini untuk membuka atau mengunduh panduan:
 * [📄 Download Panduan LAPORAN SISWA JWS v3 (PDF)](PENDUKUNG/LAPORAN_PRAKTIKUM_JWS_V3.pdf)
 
 ## 🖼️ Preview Project
-![Tampilan Alat](PENDUKUNG/PANDUAN_SISWA_JWS_1.png)
+![Tampilan Alat](PENDUKUNG/nice.png)
 ![Tampilan Alat](PENDUKUNG/block_apps_v3.png)
 
 ### 🔌 Panduan Wiring (Master to Slave)
